@@ -1,3 +1,8 @@
+# Moved to Codeberg
+
+This repository was moved to Codeberg:
+https://codeberg.org/Kotbenek/Nixie-clock-tubes-driver
+
 # Nixie-clock-tubes-driver
 PCB responsible for driving Nixie tubes
 
